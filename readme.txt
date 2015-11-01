@@ -6,4 +6,4 @@ Now is test program.
 I am learning git.
 I am OK.
 Git tracks changes.
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
