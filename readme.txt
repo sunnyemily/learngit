@@ -5,3 +5,4 @@ Git tracks changes of files.
 Now is test program.
 I am learning git.
 I am OK.
+Git tracks changes.
