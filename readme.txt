@@ -7,4 +7,4 @@ I am learning git.
 I am OK.
 Git tracks changes.
 Creating a new branch is quick and simple.
-Creating a new branch is easy.
+Creating a new branch is easy and simple.
