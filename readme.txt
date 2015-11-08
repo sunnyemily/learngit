@@ -8,4 +8,4 @@ I am OK.
 Git tracks changes.
 Creating a new branch is quick and simple.
 Creating a new branch is easy and simple.
-Fast forward is easy.
+Fast forward is easy and ok.
